@@ -26,6 +26,7 @@ public class binary {
             tersBinary.add(binary.get(i));
 
         }*/
+
         Collections.reverse(binary);
         return binary;
     }
